@@ -1,0 +1,1 @@
+Opis potencjalnego pakietu/projektu
