@@ -1,0 +1,3 @@
+[submodule "cwiczenia"]
+	path = cwiczenia
+	url = https://github.com/Drysiu/cwiczenia
